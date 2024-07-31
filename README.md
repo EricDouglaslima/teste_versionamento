@@ -2,11 +2,12 @@
 Este é um projeto desenvolvido em Angular para criar uma aplicação de jogo onde o usuário deve adivinhar um número secreto.
 
 🚀 Tecnologias
+<br><br>
 HTML & CSS - Usados para construir a interface do usuário.
 Funcionalidades
 Jogo de Adivinhação: O jogador tenta adivinhar um número secreto gerado aleatoriamente.
 Interface Simples e Intuitiva: Fácil de usar e jogar.
-<br>
+<br><br>
 📑Como Jogar
 Abra a aplicação.
 O sistema irá gerar um número secreto.
