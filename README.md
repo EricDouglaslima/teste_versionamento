@@ -6,6 +6,7 @@ HTML & CSS - Usados para construir a interface do usuário.
 Funcionalidades
 Jogo de Adivinhação: O jogador tenta adivinhar um número secreto gerado aleatoriamente.
 Interface Simples e Intuitiva: Fácil de usar e jogar.
+<br>
 📑Como Jogar
 Abra a aplicação.
 O sistema irá gerar um número secreto.
